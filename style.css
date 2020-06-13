@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Raleway";
+    src: url("/css/Fonts/Raleway-Thin.ttf");
+    
+}
+
+@font-face {
+    font-family: "RalewayTorzs";
+    src: url("/css/Fonts/Raleway-ExtraLight.ttf"); 
+}
+       h1 { 
+        text-align: center;
+        color: blanchedalmond;
+        font-family: 'Raleway', sans-serif;
+        font-size: 60px  ;
+        font-weight: 10 ;
+      } 
+
+      h2 {
+            align: center;
+            margin-top: 150px;
+            margin-left: 800px;
+            margin-right: 800px ;
+            color: black;
+            font-family: 'RalewayTorzs', sans-serif;
+            font-size: 40px  ;
+            font-weight: 10;
+          
+      }
+
+      
+
+
+
+
+
